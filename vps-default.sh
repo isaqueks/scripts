@@ -1,3 +1,5 @@
+# !/bin/bash
+
 apt update
 apt upgrade -y
 sudo fallocate -l 1G /swapfile
